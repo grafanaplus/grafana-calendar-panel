@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "Calendar",
+  "id": "jao6693-calendar-panel",
+
+  "info": {
+    "description": "Calendar panel for grafana",
+    "author": {
+      "name": "Fabien Beuret",
+      "url": "https://github.com/jao6693/grafana-calendar-panel"
+    },
+    "keywords": ["calendar", "panel"],
+    "version": "0.0.1",
+    "updated": "2017-12-01"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}

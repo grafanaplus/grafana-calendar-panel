@@ -1,0 +1,16 @@
+import {MetricsPanelCtrl} from 'app/plugins/sdk';
+
+export class CalendarCtrl extends MetricsPanelCtrl {
+  constructor($scope, $injector) {
+    super($scope, $injector);
+    this.name = 'CALENDAR';
+    // this.renderCalendar();
+  }
+
+  renderCalendar() {
+    // some code to interact with the static HTML calendar defined below
+  }
+}
+
+// structure of the static HTML calendar
+CalendarCtrl.templateUrl = 'calendar.html';

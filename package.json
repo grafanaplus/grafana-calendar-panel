@@ -1,0 +1,28 @@
+{
+  "name": "grafana-calendar-panel",
+  "version": "0.0.1",
+  "description": "Calendar panel for grafana",
+  "main": "src/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jao6693/grafana-calendar-panel.git"
+  },
+  "keywords": [
+    "calendar",
+    "grafana",
+    "panel",
+    "plugin"
+  ],
+  "author": "Fabien Beuret",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jao6693/grafana-calendar-panel/issues"
+  },
+  "homepage": "https://github.com/jao6693/grafana-calendar-panel#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
