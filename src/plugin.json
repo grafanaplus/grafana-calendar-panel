@@ -10,6 +10,10 @@
       "url": "https://github.com/jao6693/grafana-calendar-panel"
     },
     "keywords": ["calendar", "panel"],
+    "logos": {
+      "small": "img/icon_calendar_panel.svg",
+      "large": "img/icon_calendar_panel.svg" 
+    },
     "version": "0.0.1",
     "updated": "2017-12-01"
   },
